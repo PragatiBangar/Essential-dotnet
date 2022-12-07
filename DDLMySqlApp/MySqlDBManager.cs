@@ -138,7 +138,7 @@ public static class MySqlDBManager{
         try{
             con.ConnectionString = conString;
             con.Open();
-            string query = "SELECT * FROM students WHERE studentId='+id'";
+            string query = "SELECT * FROM students WHERE studentId="+id;
             MySqlCommand cmd = new MySqlCommand(query,con);
             MySqlDataReader rdr = cmd.ExecuteReader();
             if(rdr.Read())
