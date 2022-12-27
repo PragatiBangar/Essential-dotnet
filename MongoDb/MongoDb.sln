@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbTestApp", "MongoDbTestApp\MongoDbTestApp.csproj", "{FC0EA2DF-F60C-460C-8DB9-0F1CECFBB1B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flowersMongoDbTestApp", "flowersMongoDbTestApp\flowersMongoDbTestApp.csproj", "{6AA9710A-3688-4541-9386-A5DDC0422E2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FC0EA2DF-F60C-460C-8DB9-0F1CECFBB1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC0EA2DF-F60C-460C-8DB9-0F1CECFBB1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC0EA2DF-F60C-460C-8DB9-0F1CECFBB1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA9710A-3688-4541-9386-A5DDC0422E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA9710A-3688-4541-9386-A5DDC0422E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA9710A-3688-4541-9386-A5DDC0422E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA9710A-3688-4541-9386-A5DDC0422E2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
