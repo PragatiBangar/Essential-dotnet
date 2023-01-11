@@ -1,0 +1,15 @@
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.csproj.AssemblyReference.cache
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.AssemblyInfoInputs.cache
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.AssemblyInfo.cs
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.csproj.CoreCompileInputs.cache
+C:\Localrepo\Delegate\SerializationTest\bin\Debug\net6.0\SerializationTest.exe
+C:\Localrepo\Delegate\SerializationTest\bin\Debug\net6.0\SerializationTest.deps.json
+C:\Localrepo\Delegate\SerializationTest\bin\Debug\net6.0\SerializationTest.runtimeconfig.json
+C:\Localrepo\Delegate\SerializationTest\bin\Debug\net6.0\SerializationTest.dll
+C:\Localrepo\Delegate\SerializationTest\bin\Debug\net6.0\SerializationTest.pdb
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.dll
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\refint\SerializationTest.dll
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.pdb
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\SerializationTest.genruntimeconfig.cache
+C:\Localrepo\Delegate\SerializationTest\obj\Debug\net6.0\ref\SerializationTest.dll

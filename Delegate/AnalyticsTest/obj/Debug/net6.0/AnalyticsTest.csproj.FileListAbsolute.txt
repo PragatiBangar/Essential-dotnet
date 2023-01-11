@@ -1,0 +1,15 @@
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.csproj.AssemblyReference.cache
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.AssemblyInfoInputs.cache
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.AssemblyInfo.cs
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.csproj.CoreCompileInputs.cache
+C:\Localrepo\Delegate\AnalyticsTest\bin\Debug\net6.0\AnalyticsTest.exe
+C:\Localrepo\Delegate\AnalyticsTest\bin\Debug\net6.0\AnalyticsTest.deps.json
+C:\Localrepo\Delegate\AnalyticsTest\bin\Debug\net6.0\AnalyticsTest.runtimeconfig.json
+C:\Localrepo\Delegate\AnalyticsTest\bin\Debug\net6.0\AnalyticsTest.dll
+C:\Localrepo\Delegate\AnalyticsTest\bin\Debug\net6.0\AnalyticsTest.pdb
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.dll
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\refint\AnalyticsTest.dll
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.pdb
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\AnalyticsTest.genruntimeconfig.cache
+C:\Localrepo\Delegate\AnalyticsTest\obj\Debug\net6.0\ref\AnalyticsTest.dll
