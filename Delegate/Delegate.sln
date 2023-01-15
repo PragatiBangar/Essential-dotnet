@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodTest", "Exte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyticsTest", "AnalyticsTest\AnalyticsTest.csproj", "{3FE77599-20F6-46F9-B9A5-D5819E3426ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentTest", "RecruitmentTest\RecruitmentTest.csproj", "{3FE77599-20F6-46F9-B9A5-D5819E3426ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDTest", "SOLIDTest\SOLIDTest.csproj", "{7CE5FA9A-0030-44B1-9A00-658B39D992A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,9 @@ Global
 		{3FE77599-20F6-46F9-B9A5-D5819E3426ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FE77599-20F6-46F9-B9A5-D5819E3426ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FE77599-20F6-46F9-B9A5-D5819E3426ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE5FA9A-0030-44B1-9A00-658B39D992A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE5FA9A-0030-44B1-9A00-658B39D992A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE5FA9A-0030-44B1-9A00-658B39D992A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE5FA9A-0030-44B1-9A00-658B39D992A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
