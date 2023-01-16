@@ -1,0 +1,15 @@
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.csproj.AssemblyReference.cache
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.AssemblyInfoInputs.cache
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.AssemblyInfo.cs
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.csproj.CoreCompileInputs.cache
+C:\Localrepo\Delegate\SOLIDTest\bin\Debug\net6.0\SOLIDTest.exe
+C:\Localrepo\Delegate\SOLIDTest\bin\Debug\net6.0\SOLIDTest.deps.json
+C:\Localrepo\Delegate\SOLIDTest\bin\Debug\net6.0\SOLIDTest.runtimeconfig.json
+C:\Localrepo\Delegate\SOLIDTest\bin\Debug\net6.0\SOLIDTest.dll
+C:\Localrepo\Delegate\SOLIDTest\bin\Debug\net6.0\SOLIDTest.pdb
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.dll
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\refint\SOLIDTest.dll
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.pdb
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\SOLIDTest.genruntimeconfig.cache
+C:\Localrepo\Delegate\SOLIDTest\obj\Debug\net6.0\ref\SOLIDTest.dll
