@@ -1,0 +1,12 @@
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Localrepo\Delegate\Catalog\bin\Debug\net6.0\Catalog.deps.json
+C:\Localrepo\Delegate\Catalog\bin\Debug\net6.0\Catalog.dll
+C:\Localrepo\Delegate\Catalog\bin\Debug\net6.0\Catalog.pdb
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.dll
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\refint\Catalog.dll
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\Catalog.pdb
+C:\Localrepo\Delegate\Catalog\obj\Debug\net6.0\ref\Catalog.dll

@@ -10,7 +10,7 @@
         List<string> products = ViewData["allProducts"] as List<string>;
         <ol>
             @foreach(string title in products){
-                <li><a href = "/products/Details/ "></a></li>
+                <li><a href = "/products/Details/ ">@title</a></li>
             }
         </ol>
     }

@@ -1,0 +1,42 @@
+@using Catalog;
+
+@{
+    ViewBag.Title = "Insert";
+}
+
+<h2><b> New Product </b><h2>
+
+<form action = "/products/Insert" method="POST">
+    <table style="font-family:Arial">
+    <tr>
+        <td>Product</td>
+        <td><input type= "text" name ="title"/></td>
+    </tr>
+
+    <tr>
+        <td>Image</td>
+        <td><input type= "text" name ="image"/></td>
+    </tr>
+
+    <tr>
+        <td>Description</td>
+        <td><input type= "text" name ="Description"/></td>
+    </tr>
+
+    <tr>
+        <td>Quantity</td>
+        <td><input type= "text" name ="quantity"/></td>
+    </tr>
+
+    <tr>
+        <td>UnitPrice</td>
+        <td><input type= "text" name ="unitprice"/></td>
+    </tr>
+
+    <tr>
+        
+        <td><input type= "submit" value ="Insert"/></td>
+    </tr>
+    </table>
+</form>
+
