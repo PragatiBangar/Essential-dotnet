@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.exe
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.deps.json
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.dll
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.pdb
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.dll
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\refint\SimpleConsoleApp.dll
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.pdb
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleConsoleApp\obj\Debug\net6.0\ref\SimpleConsoleApp.dll

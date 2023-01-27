@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\bin\Debug\net6.0\SimpleTaskApp.exe
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\bin\Debug\net6.0\SimpleTaskApp.deps.json
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\bin\Debug\net6.0\SimpleTaskApp.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\bin\Debug\net6.0\SimpleTaskApp.dll
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\bin\Debug\net6.0\SimpleTaskApp.pdb
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.dll
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\refint\SimpleTaskApp.dll
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.pdb
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\SimpleTaskApp.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\Threading\SimpleTaskApp\obj\Debug\net6.0\ref\SimpleTaskApp.dll
