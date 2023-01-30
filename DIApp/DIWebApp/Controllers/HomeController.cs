@@ -1,28 +1,29 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using DIWebApp.Models;
+using DIWebApp.Services;
 
 namespace DIWebApp.Controllers;
 
 public class HomeController : Controller
 {
-    public readonly IHelloWorldService _helloWorldService;
-    public HomeController(IHelloWorldService helloWorldService)
+    public readonly IHelloWorldService _HelloWorldService;
+    public HomeController(IHelloWorldService HelloWorldService)
     {
         // are used for initialization
-        this._helloWorldService = helloWorldService;
+        this._HelloWorldService = HelloWorldService;
     }
 
     public IActionResult Index()
     {
-        string message = this._helloWorldService.SaysHello();
+        string message = this._HelloWorldService.SaysHello();
         ViewData["message"] = message;
         return View();
     }
 
     public IActionResult Privacy()
     {
-        string message = this._helloWorldService.SaysHello();
+        string message = this._HelloWorldService.SaysHello();
         ViewData["message"] = message;
         return View();
     }
