@@ -7,6 +7,9 @@ namespace DIWebApp.Services
     }
     public class HelloWorldService : IHelloWorldService
     {
+        public HelloWorldService(){
+            
+        }
         public string SaysHello()
         {
             return "Hello";

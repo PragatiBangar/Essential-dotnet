@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u8IDX/Y0Dq9Ekc3+uNPvPFDG9J4wN+vjLENsYV4OsvbVLNjt5NUx9nIDJC5WfyKWBb/XFspFjnjSer3pkIKfiw==",
+  "dgSpecHash": "4WE5JlS0JlSKpZqRDirtqnOB0AftOfcsdyoWh9So7wgCsNea6X6W7XLirfHxD8pbSmC3y6rfxt+QPUk/D+qEYA==",
   "success": true,
-  "projectFilePath": "C:\\Localrepo\\Delegate\\DIApp\\DIWebApp\\DIWebApp.csproj",
+  "projectFilePath": "C:\\Localrepo\\Essential-dotnet\\DIApp\\DIWebApp\\DIWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

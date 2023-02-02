@@ -21,25 +21,27 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllerRoute(
-        name : "CropDetails",
-        pattern : "farms/{farmName}/greenhouse/{unitNo}/crop/{cropName}",
-        defaults : new {controller = "Farms", action = "CropDetails"}
-    );
 
-    endpoints.MapControllerRoute(
-        name : "GreenhouseDetails",
-        pattern : "farms/{farmName}/greenhouse/{unitNo}",
-        defaults : new {controller = "Farms", action = "GreenhouseDetails"}
-    );
+app.MapControllerRoute(
+    name : "CropDetails",
+    pattern : "farms/{farmName}/greenhouse/{unitNo}/crop/{cropName}",
+    defaults : new {controller = "Farms", action = "CropDetails"});
+
+    
+
+app.MapControllerRoute(
+    name : "GreenhouseDetails",
+    pattern : "farms/{farmName}/greenhouse/{unitNo}",
+    defaults : new {controller = "Farms", action = "GreenhouseDetails"});
+
+    
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+    
 
 
-    endpoints.MapControllerRoute(
-        name: "default",
-        pattern: "{controller=Home}/{action=Index}/{id?}"
-    );
-});
+app.Run();
 
 

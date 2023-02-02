@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Localrepo\\Delegate\\DIApp\\DIWebApp\\DIWebApp.csproj",
+      "projectUniqueName": "C:\\Localrepo\\Essential-dotnet\\DIApp\\DIWebApp\\DIWebApp.csproj",
       "projectName": "DIWebApp",
-      "projectPath": "C:\\Localrepo\\Delegate\\DIApp\\DIWebApp\\DIWebApp.csproj",
+      "projectPath": "C:\\Localrepo\\Essential-dotnet\\DIApp\\DIWebApp\\DIWebApp.csproj",
       "packagesPath": "C:\\Users\\Pragati\\.nuget\\packages\\",
-      "outputPath": "C:\\Localrepo\\Delegate\\DIApp\\DIWebApp\\obj\\",
+      "outputPath": "C:\\Localrepo\\Essential-dotnet\\DIApp\\DIWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pragati\\AppData\\Roaming\\NuGet\\NuGet.Config"

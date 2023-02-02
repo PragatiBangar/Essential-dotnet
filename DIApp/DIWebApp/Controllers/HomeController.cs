@@ -8,16 +8,20 @@ namespace DIWebApp.Controllers;
 public class HomeController : Controller
 {
     public readonly IHelloWorldService _HelloWorldService;
-    public HomeController(IHelloWorldService HelloWorldService)
+    public readonly IProductCatalogService _ProductCatalogService;
+
+    public HomeController(IHelloWorldService HelloWorldService, IProductCatalogService ProductCatalogService)
     {
         // are used for initialization
         this._HelloWorldService = HelloWorldService;
+        this._ProductCatalogService = ProductCatalogService;
     }
 
     public IActionResult Index()
     {
         string message = this._HelloWorldService.SaysHello();
         ViewData["message"] = message;
+        bool status = this._ProductCatalogService.Insert();
         return View();
     }
 
