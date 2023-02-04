@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Localrepo\\Delegate\\CustomRoutingApp\\CustomRoutingApp.csproj",
+      "projectUniqueName": "C:\\Localrepo\\Essential-dotnet\\CustomRoutingApp\\CustomRoutingApp.csproj",
       "projectName": "CustomRoutingApp",
-      "projectPath": "C:\\Localrepo\\Delegate\\CustomRoutingApp\\CustomRoutingApp.csproj",
+      "projectPath": "C:\\Localrepo\\Essential-dotnet\\CustomRoutingApp\\CustomRoutingApp.csproj",
       "packagesPath": "C:\\Users\\Pragati\\.nuget\\packages\\",
-      "outputPath": "C:\\Localrepo\\Delegate\\CustomRoutingApp\\obj\\",
+      "outputPath": "C:\\Localrepo\\Essential-dotnet\\CustomRoutingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pragati\\AppData\\Roaming\\NuGet\\NuGet.Config"

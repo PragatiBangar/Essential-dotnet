@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Localrepo\\Essential-dotnet\\DemoApp\\DemoApp.csproj",
+      "projectUniqueName": "C:\\Localrepo\\Essential-dotnet\\MVC\\DemoApp\\DemoApp.csproj",
       "projectName": "DemoApp",
-      "projectPath": "C:\\Localrepo\\Essential-dotnet\\DemoApp\\DemoApp.csproj",
+      "projectPath": "C:\\Localrepo\\Essential-dotnet\\MVC\\DemoApp\\DemoApp.csproj",
       "packagesPath": "C:\\Users\\Pragati\\.nuget\\packages\\",
-      "outputPath": "C:\\Localrepo\\Essential-dotnet\\DemoApp\\obj\\",
+      "outputPath": "C:\\Localrepo\\Essential-dotnet\\MVC\\DemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pragati\\AppData\\Roaming\\NuGet\\NuGet.Config"

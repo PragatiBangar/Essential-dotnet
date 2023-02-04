@@ -1,5 +1,5 @@
 using Core.Models;
-using Core.Repositories.InterFaces;
+using Core.Repositories.Interfaces;
 using System.Collections.Generic;
 
 namespace Core.Repositories

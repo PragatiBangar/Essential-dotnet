@@ -1,0 +1,5 @@
+C:\Localrepo\Essential-dotnet\EStoreDBEFApp\obj\Debug\net6.0\EStoreDBEFApp.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\EStoreDBEFApp\obj\Debug\net6.0\EStoreDBEFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\EStoreDBEFApp\obj\Debug\net6.0\EStoreDBEFApp.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\EStoreDBEFApp\obj\Debug\net6.0\EStoreDBEFApp.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\EStoreDBEFApp\obj\Debug\net6.0\EStoreDBEFApp.csproj.CoreCompileInputs.cache

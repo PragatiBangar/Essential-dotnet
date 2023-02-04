@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using DemoApp.Models;
-using DemoApp.helpers;
+using DemoApp.Helpers;
 using Core.Models;
 using Microsoft.AspNetCore.Http;
 using Core.Services.Interfaces;

@@ -2,7 +2,7 @@ using System;
 using Core.Repositories;
 using Core.Repositories.Interfaces;
 using Core.Services;
-using Core.Services.InterFaces;
+using Core.Services.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -14,7 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddTransient<IFruitRepository, FruitRepository>();
 builder.Services.AddTransient<IFlowerRepository, FlowerRepository>();
-builder.Services.AddTransient<IFlowerService FlowerService>();
+builder.Services.AddTransient<IFlowerService, FlowerService>();
 builder.Services.AddTransient<IFruitService, FruitService>();
 builder.Services.AddTransient<IFinancialsService, FinancialsService>();
 

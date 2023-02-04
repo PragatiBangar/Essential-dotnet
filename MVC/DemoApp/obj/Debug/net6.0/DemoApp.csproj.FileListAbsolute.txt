@@ -6,3 +6,11 @@ C:\Localrepo\Essential-dotnet\DemoApp\obj\Debug\net6.0\DemoApp.csproj.CoreCompil
 C:\Localrepo\Essential-dotnet\DemoApp\obj\Debug\net6.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Localrepo\Essential-dotnet\DemoApp\obj\Debug\net6.0\DemoApp.RazorAssemblyInfo.cache
 C:\Localrepo\Essential-dotnet\DemoApp\obj\Debug\net6.0\DemoApp.RazorAssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.RazorAssemblyInfo.cache
+C:\Localrepo\Essential-dotnet\MVC\DemoApp\obj\Debug\net6.0\DemoApp.RazorAssemblyInfo.cs

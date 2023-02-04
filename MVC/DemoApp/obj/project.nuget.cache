@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f/Nc+1zeJfMiuD18rQud6TtzE2/CpkYoom2cu7mggx4kOJXZFwVcsbVIDm4LXyTVs+ZfEke1yA5ZrF56519Ziw==",
+  "dgSpecHash": "TRkth18OsavAHkTZ896VPV7XKvWH9GGZMQDyTVw28cuXI91WnQdmqmhDhEmMO9+Vl5Yu6UUzrHDfCKVqKvNKkQ==",
   "success": true,
-  "projectFilePath": "C:\\Localrepo\\Essential-dotnet\\DemoApp\\DemoApp.csproj",
+  "projectFilePath": "C:\\Localrepo\\Essential-dotnet\\MVC\\DemoApp\\DemoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
