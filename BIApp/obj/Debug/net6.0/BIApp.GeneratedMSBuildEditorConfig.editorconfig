@@ -15,8 +15,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Localrepo\Essential-dotnet\BIApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Localrepo/Essential-dotnet/BIApp/Views/Dashboard/BarChart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEJhckNoYXJ0LmNzaHRtbA==
+[C:/Localrepo/Essential-dotnet/BIApp/Views/Dashboard/Barchart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEJhcmNoYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Localrepo/Essential-dotnet/BIApp/Views/Dashboard/Index.cshtml]
