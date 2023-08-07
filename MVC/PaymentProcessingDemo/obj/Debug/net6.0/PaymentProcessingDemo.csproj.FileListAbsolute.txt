@@ -1,0 +1,8 @@
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.RazorAssemblyInfo.cache
+C:\Localrepo\Essential-dotnet\MVC\PaymentProcessingDemo\obj\Debug\net6.0\PaymentProcessingDemo.RazorAssemblyInfo.cs

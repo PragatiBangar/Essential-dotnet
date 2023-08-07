@@ -39,6 +39,7 @@ namespace EStoreDBEFApp
             {
                 var theProduct = context.Products.Find(product.Id);
                 theProduct.Title = product.Title;
+                theProduct.Description = product.Description;
                 theProduct.Quantity = product.Quantity;
                 theProduct.UnitPrice = product.UnitPrice;
                 context.SaveChanges();
@@ -50,7 +51,7 @@ namespace EStoreDBEFApp
             using (var context = new CollectionContext())
             {
                 context.Products.Remove(context.Products.Find(id));
-                context.Savechanges();
+                context.SaveChanges();
             }
         }
     }

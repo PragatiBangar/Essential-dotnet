@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+
 namespace EStoreDBEFApp
 {
     public class CollectionContext : DbContext
@@ -17,10 +19,10 @@ namespace EStoreDBEFApp
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Product>(entity=>
             {
-                entity.Haskey(e => e.Id);
-                entity.Property(e => e.Title).Isrequired();
-                entity.Property(e => e.UnitPrice).Isrequired();
-                entity.Property(e => e.Quantity).Isrequired();
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Title).IsRequired();
+                entity.Property(e => e.UnitPrice).IsRequired();
+                entity.Property(e => e.Quantity).IsRequired();
             });
         }
     } 

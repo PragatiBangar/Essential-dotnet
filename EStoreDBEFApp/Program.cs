@@ -31,18 +31,20 @@ namespace EStoreDBEFApp
                         List<Product> allProducts= dbm.GetAll();
                         foreach (var product in allProducts)
                         {
-                            Console.WriteLine("Id:{0} , Title:{1} , UnitPrice:{2} , Quantity:{3}",
-                                            product.Id,product.Title,product.UnitPrice,
+                            Console.WriteLine("Id:{0} , Title:{1} ,Description:{2}, UnitPrice:{3} , Quantity:{4}",
+                                            product.Id,product.Title,product.Description,product.UnitPrice,
                                             product.Quantity);
 
                         }
                     }
                     break;
 
-                    case 2:
-                    {
+                    case 2:{
                         int Id = int.Parse(Console.ReadLine());
-                        dbm.GetById(Id);
+                        Product product=dbm.GetById(Id);
+                        Console.WriteLine("Id:{0} , Title:{1} ,Description:{2}, UnitPrice:{3} , Quantity:{4}",
+                                          product.Id,product.Title,product.Description,product.UnitPrice,
+                                          product.Quantity);
                     }
                     break;
                     //Insert new product
