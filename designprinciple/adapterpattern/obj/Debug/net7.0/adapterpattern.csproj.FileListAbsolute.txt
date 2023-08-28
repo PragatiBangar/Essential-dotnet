@@ -1,0 +1,15 @@
+C:\designprinciple\adapterpattern\bin\Debug\net7.0\adapterpattern.exe
+C:\designprinciple\adapterpattern\bin\Debug\net7.0\adapterpattern.deps.json
+C:\designprinciple\adapterpattern\bin\Debug\net7.0\adapterpattern.runtimeconfig.json
+C:\designprinciple\adapterpattern\bin\Debug\net7.0\adapterpattern.dll
+C:\designprinciple\adapterpattern\bin\Debug\net7.0\adapterpattern.pdb
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.csproj.AssemblyReference.cache
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.AssemblyInfoInputs.cache
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.AssemblyInfo.cs
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.csproj.CoreCompileInputs.cache
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.dll
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\refint\adapterpattern.dll
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.pdb
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\adapterpattern.genruntimeconfig.cache
+C:\designprinciple\adapterpattern\obj\Debug\net7.0\ref\adapterpattern.dll
