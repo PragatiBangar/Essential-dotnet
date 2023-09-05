@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Localrepo\Essential-dotnet\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Localrepo\Essential-dotnet\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Localrepo\Essential-dotnet\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
