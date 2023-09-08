@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\Extensionmethod\bin\Debug\net7.0\Extensionmethod.exe
+C:\Localrepo\Essential-dotnet\Extensionmethod\bin\Debug\net7.0\Extensionmethod.deps.json
+C:\Localrepo\Essential-dotnet\Extensionmethod\bin\Debug\net7.0\Extensionmethod.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\Extensionmethod\bin\Debug\net7.0\Extensionmethod.dll
+C:\Localrepo\Essential-dotnet\Extensionmethod\bin\Debug\net7.0\Extensionmethod.pdb
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.dll
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\refint\Extensionmethod.dll
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.pdb
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\Extensionmethod.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\Extensionmethod\obj\Debug\net7.0\ref\Extensionmethod.dll
