@@ -4,9 +4,10 @@ public class Book{
 
     public string Author{get;set;}
 
-    public Book(string bookName,string author){
-        this.BookName=bookName;
-        this.Author=author;
+    public Book(){
+        this.BookName="clean";
+        this.Author="pragati";
+        // Console.WriteLine(BookName+" "+Author);
     }
 
     public void GetBookDetails(){
@@ -14,6 +15,7 @@ public class Book{
     }
 
     public void GetBookName(){
-        Console.WriteLine(BookName);
     }
+
+    
 }

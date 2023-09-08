@@ -1,5 +1,5 @@
-﻿Book book =new Book("clean code strategy","akash ajab");
+﻿Book book =new Book();
 
-book.GetBookDetails();
+// book.GetBookDetails();
 book.GetBookName();
 
