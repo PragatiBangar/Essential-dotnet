@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\practice\HCF\bin\Debug\net7.0\HCF.exe
+C:\Localrepo\Essential-dotnet\practice\HCF\bin\Debug\net7.0\HCF.deps.json
+C:\Localrepo\Essential-dotnet\practice\HCF\bin\Debug\net7.0\HCF.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\practice\HCF\bin\Debug\net7.0\HCF.dll
+C:\Localrepo\Essential-dotnet\practice\HCF\bin\Debug\net7.0\HCF.pdb
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.dll
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\refint\HCF.dll
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.pdb
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\HCF.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\practice\HCF\obj\Debug\net7.0\ref\HCF.dll

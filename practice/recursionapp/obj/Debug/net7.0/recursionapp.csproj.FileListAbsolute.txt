@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\practice\recursionapp\bin\Debug\net7.0\recursionapp.exe
+C:\Localrepo\Essential-dotnet\practice\recursionapp\bin\Debug\net7.0\recursionapp.deps.json
+C:\Localrepo\Essential-dotnet\practice\recursionapp\bin\Debug\net7.0\recursionapp.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\practice\recursionapp\bin\Debug\net7.0\recursionapp.dll
+C:\Localrepo\Essential-dotnet\practice\recursionapp\bin\Debug\net7.0\recursionapp.pdb
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.dll
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\refint\recursionapp.dll
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.pdb
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\recursionapp.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\practice\recursionapp\obj\Debug\net7.0\ref\recursionapp.dll

@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\practice\firstapp\bin\Debug\net7.0\firstapp.exe
+C:\Localrepo\Essential-dotnet\practice\firstapp\bin\Debug\net7.0\firstapp.deps.json
+C:\Localrepo\Essential-dotnet\practice\firstapp\bin\Debug\net7.0\firstapp.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\practice\firstapp\bin\Debug\net7.0\firstapp.dll
+C:\Localrepo\Essential-dotnet\practice\firstapp\bin\Debug\net7.0\firstapp.pdb
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.dll
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\refint\firstapp.dll
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.pdb
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\firstapp.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\practice\firstapp\obj\Debug\net7.0\ref\firstapp.dll

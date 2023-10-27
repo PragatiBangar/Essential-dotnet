@@ -1,0 +1,15 @@
+C:\Localrepo\Essential-dotnet\practice\numberoperations\bin\Debug\net7.0\numberoperations.exe
+C:\Localrepo\Essential-dotnet\practice\numberoperations\bin\Debug\net7.0\numberoperations.deps.json
+C:\Localrepo\Essential-dotnet\practice\numberoperations\bin\Debug\net7.0\numberoperations.runtimeconfig.json
+C:\Localrepo\Essential-dotnet\practice\numberoperations\bin\Debug\net7.0\numberoperations.dll
+C:\Localrepo\Essential-dotnet\practice\numberoperations\bin\Debug\net7.0\numberoperations.pdb
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.csproj.AssemblyReference.cache
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.AssemblyInfoInputs.cache
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.AssemblyInfo.cs
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.csproj.CoreCompileInputs.cache
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.dll
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\refint\numberoperations.dll
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.pdb
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\numberoperations.genruntimeconfig.cache
+C:\Localrepo\Essential-dotnet\practice\numberoperations\obj\Debug\net7.0\ref\numberoperations.dll
