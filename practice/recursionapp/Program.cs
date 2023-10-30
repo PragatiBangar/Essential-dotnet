@@ -16,14 +16,14 @@
 // Console.WriteLine(fact%10);
 
 // Smallest Element of  the array using Recursion 
-static int SmallestNumber(int number,int[] arr){
-if(number==1)
-return arr[0];
-return Math.Min(arr[number-1], SmallestNumber(number-1, arr));
-}
-int[] arr={10,2,3,4,5,9};
-int number = arr.Length;
-Console.WriteLine("Smallest Element is: "+ SmallestNumber(number, arr));
+// static int SmallestNumber(int number,int[] arr){
+// if(number==1)
+// return arr[0];
+// return Math.Min(arr[number-1], SmallestNumber(number-1, arr));
+// }
+// int[] arr={10,2,3,4,5,9};
+// int number = arr.Length;
+// Console.WriteLine("Smallest Element is: "+ SmallestNumber(number, arr));
 
 
 
@@ -34,20 +34,19 @@ Console.WriteLine("Smallest Element is: "+ SmallestNumber(number, arr));
 // For example, in the case of int, you can access its maximum value using int.MaxValue. This value represents the largest positive integer that can be stored in an int variable in C#.
 
 // Find smallest element in array
-//   static int SmallestNumber(){
-//   int[] numbers = { 34, 4, 89, 90, 56};
-//   int n = numbers.Length;
+//   static int SmallestNumber(int[] numbers){
 //   int mini = int.MaxValue;
 
-//   for(int i=0; i<n; i++){
+//   for(int i=0; i<numbers.Length; i++){
 //     if(numbers[i]<mini)
 //       mini = numbers[i];
 //   }
 //     return mini;
 //   }
 
-// int m = SmallestNumber();
-// Console.WriteLine(m);
+// int[] numbers = { 34, 4, 89, 90, 56};
+// int m= SmallestNumber(numbers);
+// Console.WriteLine("smallest number:"+m);
 
 
 // GetReverseNumber
@@ -238,6 +237,8 @@ Console.WriteLine("Smallest Element is: "+ SmallestNumber(number, arr));
 
 
 // Find the union and intersection of two sorted arrays
+// using System.IO.Pipes;
+
 // static List<int> FindUnion(int[] number1,int[] number2){
   
 //   List<int> union=new List<int>();
@@ -305,6 +306,55 @@ Console.WriteLine("Smallest Element is: "+ SmallestNumber(number, arr));
 
  
 
+
+
+// int[] arr = { 10, -20, -30, 0, 70, -80, -20 };
+//     int n= arr.Length;
+//     int result = arr[0];
+    
+//     for (int i = 0; i < n; i++)
+//     {
+//         int mul = arr[i];
+//         // traversing in current subarray
+//         for (int j = i + 1; j < n; j++) { // updating result every time // to keep an eye over the // maximum product 
+//                 if(mul>result)
+//                 result = mul;
+//             mul *= arr[j];
+//         }
+//         if(mul>result)
+//             result = mul;
+//     }
+//     Console.WriteLine(result);
+
+
+//quadrants in which a given coordinate lies
+
+// static void FindQuadrants(int x,int y){
+// if(x>0 && y>0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in the first quadrant");
+// }
+// else if(x<0 && y>0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in the second quadrant");
+// }
+// else if(x<0 && y<0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in the third quadrant");
+// }
+// else if(x>0 && y<0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in the forth quadrant");
+// }
+// else if(x==0 && y==0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in origin");
+// }
+// else if(x!=0 && y==0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in x-axis");
+// }
+// else if(x==0 && y!=0){
+//    Console.WriteLine("point: " + x +"," +y+" lies in y-axis");
+// }
+// }
+// FindQuadrants(1,2);
+
+// Find if there is Any subarray with sum equal to zero
 //  static bool findSum(int[] numbers){
 //  int flag=0;
 //  int sum=0;
@@ -327,29 +377,196 @@ Console.WriteLine("Smallest Element is: "+ SmallestNumber(number, arr));
 //   return false;
 //  }
 
-// int[] numbers ={0,0,9,8,7};
-
+// int[] numbers ={0,0};
 
 // bool status = findSum(numbers);
 // Console.WriteLine(status);
  
 
-// int[] arr = { 10, -20, -30, 0, 70, -80, -20 };
-//     int n= arr.Length;
-//     int result = arr[0];
-    
-//     for (int i = 0; i < n; i++)
+
+//Highest Common Factor(HCF)
+// int num1 = 12;
+// int num2 = 36;
+// int HCF = 1;
+
+// for(int i=1; i<=num1 && i<=num2; i++ ){
+//     if(num1%i==0 && num2%i==0){
+//         HCF=i;
+//     }
+// }
+// Console.WriteLine(HCF);
+
+
+// static int GetSumOfDigit(int number)
+// {
+
+//     int sum = 0;
+
+//     while (number != 0)
 //     {
-//         int mul = arr[i];
-//         // traversing in current subarray
-//         for (int j = i + 1; j < n; j++) { // updating result every time // to keep an eye over the // maximum product 
+//         sum += number % 10;
+//         number = number / 10;
+//     }
+//     return sum;
+// }
+
+// int num=GetSumOfDigit(1234);
+// Console.WriteLine(num);
+
+
+// static int GetCountOfDigits(int number)
+// {
+//     int digit = 0;
+//     while (number > 0)
+//     {
+//         digit++;
+//         number = number / 10;
+//     }
+//     return digit;
+// }
+
+// int number = GetCountOfDigits(1234);
+// Console.WriteLine(number);
+
+// Find the union and intersection of two sorted arrays
+// static List<int> FindUnion(int[] number1,int[] number2){
+  
+//   List<int> union=new List<int>();
+//   int i =0;
+//   int j=0;
+//   while(i<number1.Length && j<number2.Length){
+//     if(number1[i]>number2[j]){
+//       union.Add(number1[i]);
+//       foreach(int number in union){
+//       Console.WriteLine(number);
+//      }
+     
+//       i++;
+//     }
+//     else if( number1[i]<number2[j]){
+      
+//       union.Add(number2[j]);
+//      foreach(int number in union){
+//       Console.WriteLine(number);
+//      }
+     
+//       j++;
+//     }
+//     else{
+      
+//       union.Add(number2[j]);
+//       foreach(int number in union){
+//       Console.WriteLine(number);
+     
+      
+//      }
+     
+//       i++;
+//       j++;
+//     }
+//   }
+//   while(i<number1.Length){
+//     union.Add(number1[i]);
+//       i++;
+//   }
+//   // while(j<number2.Length){
+//   //   union.Add(number2[j]);
+//   //     j++;
+//   // }
+// return union;
+// }
+
+// static List<int> FindIntersection(int[] number1,int[] number2){
+  
+//  List<int> intersection =new List<int>();
+//  int i=0;
+//  int j=0;
+//  while(i < number1.Length && j < number2.Length){
+//   if(number1[i]>number2[j]){
+//     i++;
+//   }
+//   else if(number1[i]<number2[j]){
+//     j++;
+//   }
+//   else{
+//     intersection.Add(number1[i]);
+//     i++;
+//     j++;
+//   }
+// }
+// return intersection;
+// }
+
+// int[] number1 ={1,3,5,8};
+// int[] number2 ={1,3,6,7,9};
+
+// List<int> intersectionResult = FindIntersection(number1,number2);
+// List<int> unionResult = FindUnion(number1,number2);
+// Console.WriteLine("intersection :"+ string.Join(",",intersectionResult));
+// Console.WriteLine("union :"+ string.Join(",",unionResult));
+
+
+
+
+//count the sum of numbers in a string
+//  static int FindSumOfNumberInString(string str){
+//   int sum =0;
+//  foreach(char ch in str){
+//   if(char.IsDigit(ch)){
+//     sum+= ch-'0';
+//   }
+//  }
+//  return sum;
+// }
+// string str ="2dg5ds46";
+
+// int sum = FindSumOfNumberInString(str);
+// Console.WriteLine(sum);
+
+//find maximum product
+// static int MaximumProduct(int[] numberArray){
+//     int result = numberArray[0];
+//     for (int i = 0; i< numberArray.Length; i++)
+//     {
+//         int mul = numberArray[i];
+//         for (int j = i + 1; j < numberArray.Length; j++) {  
 //                 if(mul>result)
 //                 result = mul;
-//             mul *= arr[j];
+//             mul *= numberArray[j];
 //         }
 //         if(mul>result)
 //             result = mul;
 //     }
-    
-//     Console.WriteLine(result);
+//     return result;  
+// }
 
+// int[] numberArray = {1,3,2,2,3 };
+// int maxProduct=MaximumProduct(numberArray);
+// Console.WriteLine("Maximum Product is:"+maxProduct);
+
+
+static bool IsPrime(int n)
+    {
+        if (n < 2)
+            return false;
+
+        for (int i = 2; i < n; i++)
+        {
+            if (n % i == 0)
+                return false;
+        }
+
+        return true;
+    }
+        int lower, upper;
+
+        lower = 1;
+        upper = 100;
+
+        for (int i = lower; i <= upper; i++)
+        {
+            if (IsPrime(i))
+            {
+                Console.Write(i + " ");
+            }
+        }
