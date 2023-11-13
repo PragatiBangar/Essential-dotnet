@@ -125,27 +125,65 @@
 
 
 
-static bool IsPrime(int n){
-    int count = 0;
+// static bool IsPrime(int n){
+//     int count = 0;
 
-    // 0, 1 negative numbers are not prime
-    if(n < 2)
-        return false;
+//     // 0, 1 negative numbers are not prime
+//     if(n < 2)
+//         return false;
 
-    for(int i=2; i<n ; i++){
-    if(n%i==0){
-        return false;
+//     for(int i=2; i<n ; i++){
+//     if(n%i==0){
+//         return false;
+//     }
+// }
+// return true;
+// }
+
+// // bool status=IsPrime(10);
+// int lower =1;
+// int upper =100;
+// for(int i=lower; i<=upper ; i++){
+//   if(IsPrime(i));
+//   Console.WriteLine(i);
+
+// }
+
+//Abundant number
+// static bool IsAbundant(int number){
+// int sum=0;
+// for(int i=1; i<number; i++){
+//   if(number%i==0){
+//     sum+=number;
+//   }
+//   if(sum>number){
+//     return true;
+//   }
+// }
+// return false;
+// }
+
+// bool status=IsAbundant(2);
+// Console.WriteLine(status);
+
+static bool prime_or_not(int a)
+{
+    int i;
+    bool is_prime = true;
+    if (a == 0 || a == 1)
+    {
+        is_prime = false;
     }
-}
-return true;
-}
-
-// bool status=IsPrime(10);
-int lower =1;
-int upper =100;
-for(int i=lower; i<=upper ; i++){
-  if(IsPrime(i));
-  Console.WriteLine(i);
-
+    for (i = 2; i <= a / 2; ++i)
+    {
+        if (a % i == 0)
+        {
+            is_prime = false;
+            break;
+        }
+    }
+    return is_prime;
 }
 
+bool status=prime_or_not(11);
+Console.WriteLine(status);

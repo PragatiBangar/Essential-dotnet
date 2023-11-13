@@ -544,29 +544,102 @@
 // int maxProduct=MaximumProduct(numberArray);
 // Console.WriteLine("Maximum Product is:"+maxProduct);
 
+// prime number within a given range
+// static bool IsPrime(int n)
+//     {
+//         if (n < 2)
+//             return false;
 
-static bool IsPrime(int n)
-    {
-        if (n < 2)
-            return false;
+//         for (int i = 2; i < n; i++)
+//         {
+//             if (n % i == 0)
+//                 return false;
+//         }
 
-        for (int i = 2; i < n; i++)
-        {
-            if (n % i == 0)
-                return false;
+//         return true;
+//     }
+//         int lower;
+//         int upper;
+
+//         lower = 1;
+//         upper = 50;
+
+//         for (int i = lower; i <= upper; i++)
+//         {
+//             if (IsPrime(i))
+//             {
+//                 Console.Write(i + " ,");
+//             }
+//         }
+
+
+// static string RemoveAdjacentDuplicates(string input)
+// {
+//     if (string.IsNullOrEmpty(input) || input.Length == 1)
+//     {
+//         return input;
+//     }
+
+//     char[] result = new char[input.Length];
+//     int resultIndex = 0;
+
+//     for (int i = 0; i < input.Length; i++)
+//     {
+//         if (i < input.Length - 1 && input[i] == input[i + 1])
+//         {
+//             // Skip adjacent duplicates.
+//             while (i < input.Length - 1 && input[i] == input[i + 1])
+//             {
+//                 i++;
+//             }
+//         }
+//         else
+//         {
+//             result[resultIndex++] = input[i];
+//         }
+//         ;
+//     }
+//     string newString = new string(result, 0, resultIndex);
+
+//     // Recursively remove adjacent duplicates until no more can be found.
+//     if (newString.Length < input.Length)
+//     {
+//         return RemoveAdjacentDuplicates(newString);
+//     }
+
+//     return newString;
+// }
+
+// string input="apragsaa";
+// string p = RemoveAdjacentDuplicates(input);
+// Console.WriteLine(p);
+
+
+
+
+// search element in matrix
+
+static void FindElementInMatrix(){
+int[][] matrix ={new int[]{1,2,4,8},new int[]{5,6,7,9},new int[]{10,11,12,13}};
+Console.WriteLine("Enter element which you want to search:");
+int search=int.Parse(Console.ReadLine());
+int size = matrix.Length;
+int flag = 0;
+ for(int i=0; i<size; i++){
+    for(int j=0; j<matrix[i].Length; j++){
+        if(matrix[i][j]==search){
+           Console.WriteLine($"Element found at position :{i},{j} ");
+           flag=1;
+           break;
         }
-
-        return true;
     }
-        int lower, upper;
+    if(flag==1){
+      break;
+    }
+ }
+ if(flag==0){
+    Console.WriteLine("Not found");
+ }
+}
 
-        lower = 1;
-        upper = 100;
-
-        for (int i = lower; i <= upper; i++)
-        {
-            if (IsPrime(i))
-            {
-                Console.Write(i + " ");
-            }
-        }
+FindElementInMatrix();
