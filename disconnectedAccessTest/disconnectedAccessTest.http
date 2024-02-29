@@ -1,0 +1,6 @@
+@disconnectedAccessTest_HostAddress = http://localhost:5039
+
+GET {{disconnectedAccessTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
