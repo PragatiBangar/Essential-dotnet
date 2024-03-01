@@ -5,7 +5,7 @@ namespace Core.Models
 {
     public class Fruit
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         [DisplayName("Movie Name")]
         public string MovieName { get; set; }

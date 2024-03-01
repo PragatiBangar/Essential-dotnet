@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TFL\\disconnectedAccessTest\\disconnectedAccessTest.csproj": {}
+    "C:\\TFL\\Essential-dotnet\\disconnectedAccessTest\\disconnectedAccessTest.csproj": {}
   },
   "projects": {
-    "C:\\TFL\\disconnectedAccessTest\\disconnectedAccessTest.csproj": {
+    "C:\\TFL\\Essential-dotnet\\disconnectedAccessTest\\disconnectedAccessTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TFL\\disconnectedAccessTest\\disconnectedAccessTest.csproj",
+        "projectUniqueName": "C:\\TFL\\Essential-dotnet\\disconnectedAccessTest\\disconnectedAccessTest.csproj",
         "projectName": "disconnectedAccessTest",
-        "projectPath": "C:\\TFL\\disconnectedAccessTest\\disconnectedAccessTest.csproj",
+        "projectPath": "C:\\TFL\\Essential-dotnet\\disconnectedAccessTest\\disconnectedAccessTest.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\TFL\\disconnectedAccessTest\\obj\\",
+        "outputPath": "C:\\TFL\\Essential-dotnet\\disconnectedAccessTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

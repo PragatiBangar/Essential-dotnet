@@ -5,7 +5,7 @@ using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Http;
 using DemoApp.Helpers;
-
+using core.Services.Interfaces;
 
 namespace DemoApp.Controllers;
 
@@ -13,11 +13,14 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
     private readonly IConfiguration _configuration;
+    private string _connectionString;
+
 
     public HomeController(ILogger<HomeController> logger, IConfiguration configuration)
     {
         _logger = logger;
         _configuration = configuration;
+        _connectionString=_configuration.GetConnectionString("ConnectionStringActsDB");
     }
 
     public IActionResult Index()
@@ -31,8 +34,8 @@ public class HomeController : Controller
         HttpContext.Session.SetInt32(SessionKeyAge, 45);
         Cart theCart = SessionHelper.GetObjectFromJson<Cart>(HttpContext.Session, "cart");
         if(theCart == null){
-            theCart == new Cart();
-            SessionHelper.SetObjectAsJson(HttpContext.Session, "cart", theCart);
+            Cart cart = new Cart();
+            SessionHelper.SetObjectAsJson(HttpContext.Session, "cart", cart);
         }
         return View();
     }
@@ -61,7 +64,7 @@ public class HomeController : Controller
         connectionStrings.Add(connection2);
         connectionStrings.Add(connection3);
         //Initializing connection string
-        ViewData["connectionStrings"] = ConnectionStrings;
+        ViewData["connectionStrings"] = _connectionString;
         return View();
     }
 

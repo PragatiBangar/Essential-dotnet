@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TRkth18OsavAHkTZ896VPV7XKvWH9GGZMQDyTVw28cuXI91WnQdmqmhDhEmMO9+Vl5Yu6UUzrHDfCKVqKvNKkQ==",
+  "dgSpecHash": "FyJNX+1BmIQr7eB6MTBw7bB+CiKrbcDGgU91q+q5Vt04NnkEz5HijxfN3jqrOFNz0/Wl4+JCY+pobYgD2zIB6A==",
   "success": true,
-  "projectFilePath": "C:\\Localrepo\\Essential-dotnet\\MVC\\DemoApp\\DemoApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\TFL\\Essential-dotnet\\MVC\\DemoApp\\DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wTC7l8AcX4ZJxXZ6CFfrTaZKBvgtEe/5dTq1xbitO45RdsraueslvVUZqLgw8SR1b2c7tMzg9t/19azRMaN7vQ==",
+  "dgSpecHash": "oiYQmLiiB5Vr9PPhIJJ7yugiCkTM6O2HkqI9tkc45YpdeKLL35BPdeTaTKlStFlK+hpr9QAnVt1xalqvkGVxwQ==",
   "success": true,
-  "projectFilePath": "C:\\TFL\\disconnectedAccessTest\\disconnectedAccessTest.csproj",
+  "projectFilePath": "C:\\TFL\\Essential-dotnet\\disconnectedAccessTest\\disconnectedAccessTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

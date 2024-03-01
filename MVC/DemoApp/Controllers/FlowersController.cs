@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Core.Services.Interfaces;
+using core.Services.Interfaces;
 using Core.Services;
 
 public class FlowersController : Controller

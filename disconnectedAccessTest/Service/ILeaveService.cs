@@ -10,6 +10,7 @@ public interface ILeaveService{
     public bool Insert(LeaveApplication leaveApplication);
 
     public bool Update(LeaveApplication leaveApplication);
-     public bool Delete(int id );
+     
+    public bool Delete(int id );
 
 }

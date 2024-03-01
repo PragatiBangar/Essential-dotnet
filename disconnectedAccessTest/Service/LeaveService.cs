@@ -93,7 +93,8 @@ public class LeaveService:ILeaveService{
         return leave;
     }
     
-    public bool Insert(LeaveApplication leaveApplication){
+    public bool Insert(LeaveApplication leaveApplication)
+    {
         bool status=false;
         MySqlConnection con =new MySqlConnection(_connectionString);
         try{
@@ -106,7 +107,7 @@ public class LeaveService:ILeaveService{
             DataTable dataTable=dataSet.Tables[0];
 
             DataRow dataRow = dataTable.NewRow();
-            dataRow["id"]=leaveApplication.Id;
+            // dataRow["id"]=leaveApplication.Id;
             dataRow["employeeid"]=leaveApplication.EmployeeId;
             dataRow["createdon"]=leaveApplication.CreatedOn;
             dataRow["fromdate"]=leaveApplication.FromDate;
@@ -121,7 +122,7 @@ public class LeaveService:ILeaveService{
                  throw e;
             }
             return status;
-        }
+    }
 
     public bool Update(LeaveApplication leaveApplication){
         bool status=false;

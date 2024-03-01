@@ -20,7 +20,7 @@
         @foreach(var item in Model.Items )
         {
             <tr>
-            <td>@Html.DisplayFor(modelItem => itemm.theFlower.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.theFlower.Name)</td>
             <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
             <td><p>@(item.theFlower.SalePrice * item.Quantity)</p></td>
             <td><a href = "/ShoppingCart/remove/@item.theFlower.ID">Remove</a></td>

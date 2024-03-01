@@ -8,7 +8,7 @@ namespace Core.Services
     public class FruitService : IFruitService
     {
         private readonly IFruitRepository _FruitRepo;  
-        public FruitService(IFruitRepository _FruitRepo)
+        public FruitService(IFruitRepository FruitRepo)
         {
             _FruitRepo = FruitRepo;
         }

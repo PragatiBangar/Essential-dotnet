@@ -1,4 +1,4 @@
-@model DemoApp.Models.Items
+@model DemoApp.Models.Item
 @{
     ViewBag.Title = "Update";
 }
@@ -13,7 +13,7 @@
                 @Html.LabelFor(model => model.theFlower.Name, new { htmlattributes = new { @class = "label label-info"}})
             </td>
             <td>
-                @Html.EditFor(model => model.theFlower.Name, new { htmlattributes = new { @class = "form-control"}})
+                @Html.EditorFor(model => model.theFlower.Name, new { htmlattributes = new { @class = "form-control"}})
             </td>
         </tr>
         <tr>
@@ -21,7 +21,7 @@
                 @Html.LabelFor(model => model.theFlower.SalePrice, new { htmlattributes = new { @class = "label label-info"}})
             </td>
             <td>
-                @Html.EditFor(model => model.theFlower.SalePrice, new { htmlattributes = new { @class = "form-control"}})
+                @Html.EditorFor(model => model.theFlower.SalePrice, new { htmlattributes = new { @class = "form-control"}})
             </td>
         </tr>
         <tr>
@@ -29,7 +29,7 @@
                 @Html.LabelFor(model => model.Quantity, new { htmlattributes = new { @class = "label label-info"}})
             </td>
             <td>
-                @Html.EditFor(model => model.Quantity, new { htmlattributes = new { @class = "form-control"}})
+                @Html.EditorFor(model => model.Quantity, new { htmlattributes = new { @class = "form-control"}})
             </td>
         </tr>
         <tr>

@@ -4,6 +4,7 @@ using DemoApp.Helpers;
 using Core.Models;
 using Microsoft.AspNetCore.Http;
 using Core.Services.Interfaces;
+using core.Services.Interfaces;
 
 namespace DempApp.Controllers
 {
@@ -28,7 +29,7 @@ namespace DempApp.Controllers
             Item theItem = new Item();
             theItem.theFlower = theFlower;
             theItem.Quantity= 0;
-            return view(theItem);
+            return View(theItem);
         }
 
         [HttpPost]

@@ -32,7 +32,7 @@ namespace Core.Services
             var fruitsSold = _fruitRepo.GetAllSold();
 
             //calculate average stats
-            stats.AverageFruitProfit = fruitsSold.Sum(x=> x.Profit)/ fruitsSold.Sum(x => x,Quantity);
+            stats.AverageFruitProfit = fruitsSold.Sum(x=> x.Profit)/ fruitsSold.Sum(x => x.Quantity);
             stats.AverageFlowerProfit = flowerSold.Sum(x => x.Profit)/ flowerSold.Sum(x => x.Quantity);
 
             return stats;

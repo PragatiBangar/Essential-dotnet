@@ -1,13 +1,10 @@
 using System;
+using core.Services.Interfaces;
 using Core.Repositories;
 using Core.Repositories.Interfaces;
 using Core.Services;
 using Core.Services.Interfaces;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

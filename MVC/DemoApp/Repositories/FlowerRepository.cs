@@ -1,6 +1,5 @@
 using Core.Models;
 using Core.Repositories.Interfaces;
-using System.Collections.Generic;
 
 namespace Core.Repositories
 {
@@ -57,14 +56,14 @@ namespace Core.Repositories
     public Flower GetById(int id)
     {
        List<Flower> allFlowers = GetAll();
-       var found = allFlowers.Find(x => x.Id == id);
+       var found = allFlowers.Find(x => x.ID == id);
        Flower theFlower = found as Flower;
        return theFlower;
     }
      
     public List<Flower> GetAllSold()
     {
-        List<Flower> items = new List<flower>()
+        List<Flower> items = new List<Flower>()
         {
             new Flower()
                 {
