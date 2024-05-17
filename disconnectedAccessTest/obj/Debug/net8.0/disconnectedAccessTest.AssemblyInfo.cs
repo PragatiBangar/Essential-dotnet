@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("disconnectedAccessTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a46e27bb3c8162a59d2f5d2b666c045523a9f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed51124c9706cc2b69ebcdb2201adf6fe37fcb95")]
 [assembly: System.Reflection.AssemblyProductAttribute("disconnectedAccessTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("disconnectedAccessTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

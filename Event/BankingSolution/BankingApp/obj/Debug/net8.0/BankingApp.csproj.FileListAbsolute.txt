@@ -1,0 +1,14 @@
+C:\TFL\BankingSolution\BankingApp\bin\Debug\net8.0\BankingApp.exe
+C:\TFL\BankingSolution\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+C:\TFL\BankingSolution\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+C:\TFL\BankingSolution\BankingApp\bin\Debug\net8.0\BankingApp.dll
+C:\TFL\BankingSolution\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.dll
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+C:\TFL\BankingSolution\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll
