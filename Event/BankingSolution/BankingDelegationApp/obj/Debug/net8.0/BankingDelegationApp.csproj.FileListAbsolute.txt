@@ -1,0 +1,15 @@
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.exe
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.deps.json
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.runtimeconfig.json
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.dll
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.pdb
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.AssemblyInfoInputs.cache
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.AssemblyInfo.cs
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.csproj.CoreCompileInputs.cache
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.sourcelink.json
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.dll
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\refint\BankingDelegationApp.dll
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.pdb
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.genruntimeconfig.cache
+C:\TFL\Essential-dotnet\Event\BankingSolution\BankingDelegationApp\obj\Debug\net8.0\ref\BankingDelegationApp.dll

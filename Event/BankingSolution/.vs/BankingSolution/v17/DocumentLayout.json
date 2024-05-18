@@ -1,25 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TFL\\BankingSolution\\",
+  "WorkspaceRootPath": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\bankingsolution\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingdelegationapp\\arithmaticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\arithmaticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\bankingsolution\\bankingapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingdelegationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\bankingsolution\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingdelegationapp\\bankinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\bankinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\bankingsolution\\bankingapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingdelegationapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingdelegationapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CCFFA-FE98-4982-A43F-80789C868F5D}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\bankingsolution\\bankingapp\\bankingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|c:\\tfl\\essential-dotnet\\event\\bankingsolution\\bankingapp\\bankingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{20A78098-D849-4361-BE88-9E83D8E92E4F}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\bankingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -30,15 +50,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArithmaticOperation.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\ArithmaticOperation.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\ArithmaticOperation.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\ArithmaticOperation.cs",
+              "RelativeToolTip": "BankingDelegationApp\\ArithmaticOperation.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:19:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankingHandler.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\BankingHandler.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\BankingHandler.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\BankingHandler.cs",
+              "RelativeToolTip": "BankingDelegationApp\\BankingHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:31:29.665Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BankingApp",
-              "DocumentMoniker": "C:\\TFL\\BankingSolution\\BankingApp\\BankingApp.csproj",
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\Account.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\Account.cs",
+              "RelativeToolTip": "BankingDelegationApp\\Account.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:30:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountListener.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\AccountListener.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\AccountListener.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\AccountListener.cs",
+              "RelativeToolTip": "BankingDelegationApp\\AccountListener.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:30:28.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\Program.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingDelegationApp\\Program.cs",
+              "RelativeToolTip": "BankingDelegationApp\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:28:48.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\Account.cs",
+              "RelativeToolTip": "BankingApp\\Account.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:59:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountListener.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\AccountListener.cs",
+              "RelativeDocumentMoniker": "BankingApp\\AccountListener.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\AccountListener.cs",
+              "RelativeToolTip": "BankingApp\\AccountListener.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:33:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HDFCBank.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\HDFCBank.cs",
+              "RelativeDocumentMoniker": "BankingApp\\HDFCBank.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\HDFCBank.cs",
+              "RelativeToolTip": "BankingApp\\HDFCBank.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:50:17.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankingApp.csproj",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\BankingApp.csproj",
               "RelativeDocumentMoniker": "BankingApp\\BankingApp.csproj",
-              "ToolTip": "C:\\TFL\\BankingSolution\\BankingApp\\BankingApp.csproj",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\BankingApp.csproj",
               "RelativeToolTip": "BankingApp\\BankingApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -47,55 +174,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HDFCBank.cs",
-              "DocumentMoniker": "C:\\TFL\\BankingSolution\\BankingApp\\HDFCBank.cs",
-              "RelativeDocumentMoniker": "BankingApp\\HDFCBank.cs",
-              "ToolTip": "C:\\TFL\\BankingSolution\\BankingApp\\HDFCBank.cs",
-              "RelativeToolTip": "BankingApp\\HDFCBank.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:50:17.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountListener.cs",
-              "DocumentMoniker": "C:\\TFL\\BankingSolution\\BankingApp\\AccountListener.cs",
-              "RelativeDocumentMoniker": "BankingApp\\AccountListener.cs",
-              "ToolTip": "C:\\TFL\\BankingSolution\\BankingApp\\AccountListener.cs",
-              "RelativeToolTip": "BankingApp\\AccountListener.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:33:15.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\TFL\\BankingSolution\\BankingApp\\Account.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
-              "ToolTip": "C:\\TFL\\BankingSolution\\BankingApp\\Account.cs",
-              "RelativeToolTip": "BankingApp\\Account.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:59:57.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TFL\\BankingSolution\\BankingApp\\Program.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\Program.cs",
               "RelativeDocumentMoniker": "BankingApp\\Program.cs",
-              "ToolTip": "C:\\TFL\\BankingSolution\\BankingApp\\Program.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\Program.cs",
               "RelativeToolTip": "BankingApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:58:28.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:58:28.756Z"
             },
             {
               "$type": "Bookmark",

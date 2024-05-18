@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFL\\BankingSolution\\BankingApp\\BankingApp.csproj",
+      "projectUniqueName": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\BankingApp.csproj",
       "projectName": "BankingApp",
-      "projectPath": "C:\\TFL\\BankingSolution\\BankingApp\\BankingApp.csproj",
+      "projectPath": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\BankingApp.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\TFL\\BankingSolution\\BankingApp\\obj\\",
+      "outputPath": "C:\\TFL\\Essential-dotnet\\Event\\BankingSolution\\BankingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
