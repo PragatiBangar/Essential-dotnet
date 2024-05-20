@@ -1,0 +1,14 @@
+C:\Dotnet_Shubh\TestReflection\TestReflection\bin\Debug\net8.0\TestReflection.exe
+C:\Dotnet_Shubh\TestReflection\TestReflection\bin\Debug\net8.0\TestReflection.deps.json
+C:\Dotnet_Shubh\TestReflection\TestReflection\bin\Debug\net8.0\TestReflection.runtimeconfig.json
+C:\Dotnet_Shubh\TestReflection\TestReflection\bin\Debug\net8.0\TestReflection.dll
+C:\Dotnet_Shubh\TestReflection\TestReflection\bin\Debug\net8.0\TestReflection.pdb
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.AssemblyInfoInputs.cache
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.AssemblyInfo.cs
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.csproj.CoreCompileInputs.cache
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.dll
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\refint\TestReflection.dll
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.pdb
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\TestReflection.genruntimeconfig.cache
+C:\Dotnet_Shubh\TestReflection\TestReflection\obj\Debug\net8.0\ref\TestReflection.dll

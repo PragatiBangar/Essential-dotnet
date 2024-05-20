@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149F20FF-48F9-4109-9351-1FA3A6FC5F6A}|TestReflection\\TestReflection.csproj|c:\\users\\dell\\downloads\\testreflection\\testreflection\\testreflection\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149F20FF-48F9-4109-9351-1FA3A6FC5F6A}|TestReflection\\TestReflection.csproj|solutionrelative:testreflection\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149F20FF-48F9-4109-9351-1FA3A6FC5F6A}|TestReflection\\TestReflection.csproj|c:\\users\\dell\\downloads\\testreflection\\testreflection\\testreflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149F20FF-48F9-4109-9351-1FA3A6FC5F6A}|TestReflection\\TestReflection.csproj|solutionrelative:testreflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149F20FF-48F9-4109-9351-1FA3A6FC5F6A}|TestReflection\\TestReflection.csproj|c:\\users\\dell\\downloads\\testreflection\\testreflection\\testreflection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149F20FF-48F9-4109-9351-1FA3A6FC5F6A}|TestReflection\\TestReflection.csproj|solutionrelative:testreflection\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\TestReflection\\Calculator.cs",
+              "RelativeDocumentMoniker": "TestReflection\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\TestReflection\\Calculator.cs",
+              "RelativeToolTip": "TestReflection\\Calculator.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:49:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\TestReflection\\Student.cs",
+              "RelativeDocumentMoniker": "TestReflection\\Student.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\TestReflection\\Student.cs",
+              "RelativeToolTip": "TestReflection\\Student.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:55:45.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\TestReflection\\Program.cs",
+              "RelativeDocumentMoniker": "TestReflection\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\TestReflection\\TestReflection\\TestReflection\\Program.cs",
+              "RelativeToolTip": "TestReflection\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:27:29.58Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
