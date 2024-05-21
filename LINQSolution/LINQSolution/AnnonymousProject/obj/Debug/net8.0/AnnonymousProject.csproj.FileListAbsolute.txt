@@ -1,0 +1,15 @@
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.exe
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.deps.json
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.runtimeconfig.json
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.dll
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.pdb
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.AssemblyInfoInputs.cache
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.AssemblyInfo.cs
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.csproj.CoreCompileInputs.cache
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.sourcelink.json
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.dll
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\refint\AnnonymousProject.dll
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.pdb
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.genruntimeconfig.cache
+C:\TFL\Essential-dotnet\Event\LINQSolution\AnnonymousProject\obj\Debug\net8.0\ref\AnnonymousProject.dll
