@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\",
+  "WorkspaceRootPath": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\event\\linqsolution\\annonymousproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\ef\\linqsolution\\linqsolution\\annonymousproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\event\\linqsolution\\annonymousproject\\transflowerdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\ef\\linqsolution\\linqsolution\\annonymousproject\\transflowerdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\transflowerdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\event\\linqsolution\\annonymousproject\\bankworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\ef\\linqsolution\\linqsolution\\annonymousproject\\bankworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\bankworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\event\\linqsolution\\annonymousproject\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\ef\\linqsolution\\linqsolution\\annonymousproject\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\event\\linqsolution\\annonymousproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\ef\\linqsolution\\linqsolution\\annonymousproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\event\\linqsolution\\annonymousproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|c:\\tfl\\essential-dotnet\\ef\\linqsolution\\linqsolution\\annonymousproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00A3983-E0C1-4313-8F1C-6803C4B888ED}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,74 +44,69 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TransflowerDelegates.cs",
-              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\TransflowerDelegates.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\TransflowerDelegates.cs",
               "RelativeDocumentMoniker": "AnnonymousProject\\TransflowerDelegates.cs",
-              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\TransflowerDelegates.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\TransflowerDelegates.cs",
               "RelativeToolTip": "AnnonymousProject\\TransflowerDelegates.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:08:46.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T12:08:46.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BankWorker.cs",
-              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\BankWorker.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\BankWorker.cs",
               "RelativeDocumentMoniker": "AnnonymousProject\\BankWorker.cs",
-              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\BankWorker.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\BankWorker.cs",
               "RelativeToolTip": "AnnonymousProject\\BankWorker.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:50:55.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:50:55.15Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SavingAccount.cs",
-              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\SavingAccount.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\SavingAccount.cs",
               "RelativeDocumentMoniker": "AnnonymousProject\\SavingAccount.cs",
-              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\SavingAccount.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\SavingAccount.cs",
               "RelativeToolTip": "AnnonymousProject\\SavingAccount.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:43:16.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:43:16.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\Person.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\Person.cs",
               "RelativeDocumentMoniker": "AnnonymousProject\\Person.cs",
-              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\Person.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\Person.cs",
               "RelativeToolTip": "AnnonymousProject\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:19:02.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:19:02.873Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Account.cs",
-              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\Account.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\Account.cs",
               "RelativeDocumentMoniker": "AnnonymousProject\\Account.cs",
-              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\Account.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\Account.cs",
               "RelativeToolTip": "AnnonymousProject\\Account.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAD4vxIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:18:43.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T11:18:43.432Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\Program.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\Program.cs",
               "RelativeDocumentMoniker": "AnnonymousProject\\Program.cs",
-              "ToolTip": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\Program.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\Program.cs",
               "RelativeToolTip": "AnnonymousProject\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

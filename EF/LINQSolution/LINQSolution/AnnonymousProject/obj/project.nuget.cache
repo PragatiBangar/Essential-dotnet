@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9q676N7tirjMzHmUc1gOGjp06BLdZnTubnvP42Z5YhhiqAIIZ6pNDXPNs3w/odueEU86vcvozMG2u1hFaGVQDQ==",
+  "dgSpecHash": "x+GADrFSU0dN05RSCMgPHdiX4VyV3fSJu/nV72oefQH7aVy0LWJIwG/r/uGwYDY4VF83nvXLz5z/FSZFCia23w==",
   "success": true,
-  "projectFilePath": "C:\\TFL\\Essential-dotnet\\Event\\LINQSolution\\AnnonymousProject\\AnnonymousProject.csproj",
+  "projectFilePath": "C:\\TFL\\Essential-dotnet\\EF\\LINQSolution\\LINQSolution\\AnnonymousProject\\AnnonymousProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

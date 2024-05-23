@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\hrormapp\\repositories\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|solutionrelative:hrormapp\\repositories\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\hrormapp\\entities\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|solutionrelative:hrormapp\\entities\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\dbcontexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\dbcontexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\blogapp\\blogapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9A7709C-E150-44E9-8882-7B86455AE4E7}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\blogapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\hrormapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|solutionrelative:hrormapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\hrormapp\\entities\\library\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|solutionrelative:hrormapp\\entities\\library\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|c:\\tfl\\tfldotnet\\tfldotnet\\solutions\\vijaysalessolution\\hrormapp\\dbcontexts\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CA3559-936E-4AA4-AAC1-C0417721CFB0}|HRORMApp\\HRORMApp.csproj|solutionrelative:hrormapp\\dbcontexts\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "BlogApp\\Repositories\\BlogRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:25.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entities\\Author.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Entities\\Author.cs",
+              "RelativeToolTip": "BlogApp\\Entities\\Author.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:56:16.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entities\\Blog.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Entities\\Blog.cs",
+              "RelativeToolTip": "BlogApp\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:56:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entities\\Post.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Entities\\Post.cs",
+              "RelativeToolTip": "BlogApp\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:56:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryRepository.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Repositories\\LibraryRepository.cs",
+              "RelativeDocumentMoniker": "HRORMApp\\Repositories\\LibraryRepository.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Repositories\\LibraryRepository.cs",
+              "RelativeToolTip": "HRORMApp\\Repositories\\LibraryRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:46:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Entities\\Library\\Book.cs",
+              "RelativeDocumentMoniker": "HRORMApp\\Entities\\Library\\Book.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Entities\\Library\\Book.cs",
+              "RelativeToolTip": "HRORMApp\\Entities\\Library\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:43:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Program.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\Program.cs",
+              "RelativeToolTip": "BlogApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:36:49.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\DBContexts\\BlogContext.cs",
+              "RelativeDocumentMoniker": "BlogApp\\DBContexts\\BlogContext.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\DBContexts\\BlogContext.cs",
+              "RelativeToolTip": "BlogApp\\DBContexts\\BlogContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:54:38.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogApp.csproj",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\BlogApp.csproj",
+              "RelativeDocumentMoniker": "BlogApp\\BlogApp.csproj",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\BlogApp\\BlogApp.csproj",
+              "RelativeToolTip": "BlogApp\\BlogApp.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T07:07:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Program.cs",
+              "RelativeDocumentMoniker": "HRORMApp\\Program.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Program.cs",
+              "RelativeToolTip": "HRORMApp\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:53:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Entities\\Library\\Author.cs",
+              "RelativeDocumentMoniker": "HRORMApp\\Entities\\Library\\Author.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\Entities\\Library\\Author.cs",
+              "RelativeToolTip": "HRORMApp\\Entities\\Library\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:42:56.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\DbContexts\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "HRORMApp\\DbContexts\\LibraryContext.cs",
+              "ToolTip": "C:\\TFL\\TFLDotnet\\TFLdotNET\\Solutions\\VijaySalesSolution\\HRORMApp\\DbContexts\\LibraryContext.cs",
+              "RelativeToolTip": "HRORMApp\\DbContexts\\LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:39:51.126Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

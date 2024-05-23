@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnnonymousProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2de168ece733ae50278cafb92011e3929491213")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115ebda6d251dd9ae3197f64127c883e935f982f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnnonymousProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnnonymousProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
