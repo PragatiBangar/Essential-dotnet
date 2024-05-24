@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509C1042-5CE8-4B93-BB54-A833C95A9576}|BlogControllerWebApi\\BlogControllerWebApi.csproj|c:\\tfl\\essential-dotnet\\simplewebapi\\blogcontrollerwebapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C1042-5CE8-4B93-BB54-A833C95A9576}|BlogControllerWebApi\\BlogControllerWebApi.csproj|solutionrelative:blogcontrollerwebapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C1042-5CE8-4B93-BB54-A833C95A9576}|BlogControllerWebApi\\BlogControllerWebApi.csproj|c:\\tfl\\essential-dotnet\\simplewebapi\\blogcontrollerwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509C1042-5CE8-4B93-BB54-A833C95A9576}|BlogControllerWebApi\\BlogControllerWebApi.csproj|solutionrelative:blogcontrollerwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509C1042-5CE8-4B93-BB54-A833C95A9576}|BlogControllerWebApi\\BlogControllerWebApi.csproj|c:\\tfl\\essential-dotnet\\simplewebapi\\blogcontrollerwebapi\\blogcontrollerwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{509C1042-5CE8-4B93-BB54-A833C95A9576}|BlogControllerWebApi\\BlogControllerWebApi.csproj|solutionrelative:blogcontrollerwebapi\\blogcontrollerwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F675C3-4725-4EA1-8FDA-E33D8ED68A98}|BlogWebApi\\BlogWebApi.csproj|c:\\tfl\\essential-dotnet\\simplewebapi\\blogwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F675C3-4725-4EA1-8FDA-E33D8ED68A98}|BlogWebApi\\BlogWebApi.csproj|solutionrelative:blogwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192DDB09-AD61-4BE9-A341-E775E3CB7F75}|BlogRazorApp\\BlogRazorApp.csproj|c:\\tfl\\essential-dotnet\\simplewebapi\\blograzorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{192DDB09-AD61-4BE9-A341-E775E3CB7F75}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192DDB09-AD61-4BE9-A341-E775E3CB7F75}|BlogRazorApp\\BlogRazorApp.csproj|c:\\tfl\\essential-dotnet\\simplewebapi\\blograzorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{192DDB09-AD61-4BE9-A341-E775E3CB7F75}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "BlogControllerWebApi\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "BlogControllerWebApi\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:20:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogControllerWebApi",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\BlogControllerWebApi.csproj",
+              "RelativeDocumentMoniker": "BlogControllerWebApi\\BlogControllerWebApi.csproj",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\BlogControllerWebApi.csproj",
+              "RelativeToolTip": "BlogControllerWebApi\\BlogControllerWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T12:14:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BlogControllerWebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BlogControllerWebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:13:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BlogWebApi\\Program.cs",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogWebApi\\Program.cs",
+              "RelativeToolTip": "BlogWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:03:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:57:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogRazorApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogRazorApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:54:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
