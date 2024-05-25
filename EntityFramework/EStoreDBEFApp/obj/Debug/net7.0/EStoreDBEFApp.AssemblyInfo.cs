@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EStoreDBEFApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852bf2fab6899970d3332b1d085823c76a971f03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20e5c42e889b030d37c3926bdfc1f4ee203ee8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EStoreDBEFApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EStoreDBEFApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
