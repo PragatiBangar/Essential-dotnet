@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,15 +56,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BlogControllerWebApi",
+              "Title": "BlogControllerWebApi.csproj",
               "DocumentMoniker": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\BlogControllerWebApi.csproj",
               "RelativeDocumentMoniker": "BlogControllerWebApi\\BlogControllerWebApi.csproj",
               "ToolTip": "C:\\TFL\\Essential-dotnet\\SimpleWebApi\\BlogControllerWebApi\\BlogControllerWebApi.csproj",
               "RelativeToolTip": "BlogControllerWebApi\\BlogControllerWebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-24T12:14:39.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T12:14:39.243Z"
             },
             {
               "$type": "Document",
@@ -72,8 +75,7 @@
               "RelativeToolTip": "BlogControllerWebApi\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:13:33.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T12:13:33.203Z"
             },
             {
               "$type": "Document",
@@ -85,8 +87,7 @@
               "RelativeToolTip": "BlogWebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:03:15.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T12:03:15.167Z"
             },
             {
               "$type": "Document",
@@ -98,12 +99,7 @@
               "RelativeToolTip": "BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T11:57:18.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2024-05-24T11:57:18.946Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "BlogRazorApp\\Pages\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T11:54:24.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T11:54:24.408Z"
             },
             {
               "$type": "Bookmark",
