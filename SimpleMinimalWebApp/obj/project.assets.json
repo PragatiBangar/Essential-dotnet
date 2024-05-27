@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFL\\SimpleMinimalWebApp\\SimpleMinimalWebApp.csproj",
+      "projectUniqueName": "C:\\TFL\\Essential-dotnet\\SimpleMinimalWebApp\\SimpleMinimalWebApp.csproj",
       "projectName": "SimpleMinimalWebApp",
-      "projectPath": "C:\\TFL\\SimpleMinimalWebApp\\SimpleMinimalWebApp.csproj",
+      "projectPath": "C:\\TFL\\Essential-dotnet\\SimpleMinimalWebApp\\SimpleMinimalWebApp.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\TFL\\SimpleMinimalWebApp\\obj\\",
+      "outputPath": "C:\\TFL\\Essential-dotnet\\SimpleMinimalWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
