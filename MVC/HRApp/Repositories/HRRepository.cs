@@ -59,7 +59,7 @@ namespace HRConsoleApp.Repositories
                 emp.FirstName= employee.FirstName;
                 emp.LastName= employee.LastName;
                 emp.Email= employee.Email;
-                emp.Contact=employee.Contact;
+                emp.ContactNumber = employee.ContactNumber;
             }
             return true;
         }
